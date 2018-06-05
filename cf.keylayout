@@ -52,7 +52,7 @@
                         <key code="7" output="x" />
                         <key code="8" action="c" />
                         <key code="9" output="v" />
-                        <key code="10" output="&#x23;" />
+                        <key code="10" output="&#xae;" />
                         <key code="11" output="b" />
                         <key code="12" output="q" />
                         <key code="13" output="w" />
@@ -162,7 +162,7 @@
                         <key code="7" output="X" />
                         <key code="8" action="Cup" />
                         <key code="9" output="V" />
-                        <key code="10" output="&#x7c;" />
+                        <key code="10" output="&#xaf;" />
                         <key code="11" output="B" />
                         <key code="12" output="Q" />
                         <key code="13" output="W" />
